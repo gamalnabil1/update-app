@@ -1,5 +1,6 @@
 {
-  "latestVersion": "1.0.2",
+  "latestVersion": "1.0.0",
   "minSupportedVersion": "1.0.0",
-  "url": "https://yourdomain.com/app.apk"
+  "url": "https://yourdomain.com/app.apk",
+  "changelog": "First release"
 }
